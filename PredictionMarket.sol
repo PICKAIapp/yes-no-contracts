@@ -6,7 +6,7 @@ import "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol";
 import "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol";
 
 /**
- * @title PICKAI Cross-Chain Prediction Market
+ * @title yes-no.fun Cross-Chain Prediction Market
  * @notice EVM-compatible smart contracts for cross-chain betting
  * @dev Implements LayerZero for cross-chain messaging
  */
